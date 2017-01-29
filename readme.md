@@ -5,8 +5,11 @@ This program was developed using Python 2.7.9, but will likely run with any vers
 It can either scan all ports (0-65535) or the ports you specify in a ports.txt file. An example ports.txt is provided in this directory. The system expects ports to be in the format of one-per-line like this: 
 
 8888
+
 21
+
 22
+
 122
 
 EXAMPLE USAGE: 
